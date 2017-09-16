@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PAIFLog</string>
+    <string name="tipo_de_logradouro">Tipo de Logradouro: </string>
+    <string name="logradouro">Logradouro: </string>
+    <string name="bairro">Bairro: </string>
+    <string name="cidade">Cidade: </string>
+    <string name="estado">Estado: </string>
+</resources>

@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="linerarInfo">
+
+        <item name="android:layout_margin">10dp</item>
+
+    </style>
+
+
+    <style name="InfoTitle">
+
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@color/InfoTitles</item>
+
+    </style>
+
+    <style name="InfoData">
+
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">@color/InfoData</item>
+        <item name="android:layout_marginLeft">5dp</item>
+
+    </style>
+
+    <style name="botao">
+
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:color">@color/colorPrimaryDark</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:textSize">20dp</item>
+
+    </style>
+
+</resources>
